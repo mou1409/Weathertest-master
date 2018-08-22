@@ -1,0 +1,22 @@
+li.box{
+    width: 340px;
+    padding: 8px;
+    border: 1px solid #dedede;
+    margin: 5px;
+    border-radius: 5px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+.btn{
+    margin-top: 24px 
+}
+.mar-20{
+    margin: 25px;
+}
+p.error{
+    color: red;
+    padding: 10px;
+}
